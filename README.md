@@ -12,7 +12,7 @@ Aller sur https://jwt.io, et dans la partie à droite intitulée "Verify signatu
 
 Dans la partie payload, changer le champ `name` pour mettre votre nom.
 
-Si vous remplacez `iat` (issued at = date d'émission du token) par `exp` (expiry = date d'expiration du token), vous générerez un token expirez.
+Si vous remplacez `iat` (issued at = date d'émission du token) par `exp` (expiry = date d'expiration du token), vous générerez un token expiré.
 
 Vous pouvez installer l'extension REST Client dans VS Code, ouvrir un nouveau fichier dans lequel vous allez coller ceci (remplacer TOKEN par le token généré par jwt.io):
 
